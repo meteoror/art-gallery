@@ -2,12 +2,12 @@ import './style.css'
 
 // ── Placeholder images (2000x1500 ratio = 4:3) via picsum.photos ──
 const SLIDE_IMAGES: { src: string; alt: string }[] = [
-  { src: '/assets/renders/0001.png', alt: 'Artwork 1' },
-  { src: '/assets/renders/0002.png', alt: 'Artwork 2' },
-  { src: '/assets/renders/0003.png', alt: 'Artwork 3' },
-  { src: '/assets/renders/0004.png', alt: 'Artwork 4' },
-  { src: '/assets/renders/0005.png', alt: 'Artwork 5' },
-  { src: '/assets/renders/0006.png', alt: 'Artwork 6' },
+  { src: '/0001.png', alt: 'Artwork 1' },
+  { src: '/0002.png', alt: 'Artwork 2' },
+  { src: '/0003.png', alt: 'Artwork 3' },
+  { src: '/0004.png', alt: 'Artwork 4' },
+  { src: '/0005.png', alt: 'Artwork 5' },
+  { src: '/0006.png', alt: 'Artwork 6' },
 ]
 
 const TEXT = `Rodrigo Duterte was elected as president of the Philippines on May 9th, 2016. One of the campaign promises he ran on was a "war on drugs," where he said that his administration would "shoot dead" drug criminals. When he assumed power, he put into place a system in which police were incentivized to commit extrajudicial killings and were immune to any consequences. What followed was the mass killing of thousands of suspected drug users and sellers, those targeted as alleged drug users were often the poor or marginalized of the Philippines. The police of the Philippines worked off of unverified lists of possible drug criminals and routinely falsified incident reports to justify their killings. Placing guns in the hands of drug criminals and claiming to have been attacked first was a common tactic to avoid any accountability for killing people, and to this day, no police officers have been prosecuted following fatal shootings. Duterte's campaign of cruelty and corruption also targeted his critics, many people who attempted to speak out against or reveal the corruption in the Philippine police system were harassed, jailed, or killed. Duterte also tried to hide his administration's crimes from the entire world, by pulling the Philippines out of the International Criminal Court when they began to investigate the Philippines. In the end, Duterte was arrested for murder as a crime against humanity in 2025, and drug use rates failed to fall during his "war on drugs."
