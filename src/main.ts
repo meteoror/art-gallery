@@ -2,12 +2,12 @@ import './style.css'
 
 // ── Placeholder images (2000x1500 ratio = 4:3) via picsum.photos ──
 const SLIDE_IMAGES: { src: string; alt: string }[] = [
-  { src: 'https://picsum.photos/seed/art1/2000/1500', alt: 'Artwork 1' },
-  { src: 'https://picsum.photos/seed/art2/2000/1500', alt: 'Artwork 2' },
-  { src: 'https://picsum.photos/seed/art3/2000/1500', alt: 'Artwork 3' },
-  { src: 'https://picsum.photos/seed/art4/2000/1500', alt: 'Artwork 4' },
-  { src: 'https://picsum.photos/seed/art5/2000/1500', alt: 'Artwork 5' },
-  { src: 'https://picsum.photos/seed/art6/2000/1500', alt: 'Artwork 6' },
+  { src: '/assets/renders/0001.jpg', alt: 'Artwork 1' },
+  { src: '/assets/renders/0002.jpg', alt: 'Artwork 2' },
+  { src: '/assets/renders/0003.jpg', alt: 'Artwork 3' },
+  { src: '/assets/renders/0004.jpg', alt: 'Artwork 4' },
+  { src: '/assets/renders/0005.jpg', alt: 'Artwork 5' },
+  { src: '/assets/renders/0006.jpg', alt: 'Artwork 6' },
 ]
 
 const LOREM_PARAGRAPHS = [
